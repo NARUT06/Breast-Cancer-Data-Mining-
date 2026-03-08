@@ -60,10 +60,10 @@ This assignment uses the Breast Cancer Wisconsin (Diagnostic) dataset to explore
   - Perimeter_mean: 43.79 – 188.5
 
 ### Visualizations
-![Diagnosis Distribution](images/diagnosis_barplot.png)  
+![Diagnosis Distribution](diagnosis_barplot.png)  
 *Bar plot showing the number of benign vs malignant cases.*
 
-![Radius vs Texture](images/radius_texture_scatter.png)  
+![Radius vs Texture](radius_texture_scatter.png)  
 *Scatter plot of Radius_mean vs Texture_mean colored by diagnosis.*
 
 ### Model Evaluation
