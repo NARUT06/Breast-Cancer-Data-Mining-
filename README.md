@@ -1,9 +1,12 @@
 # Breast Cancer Data Mining Assignment
 
 **Author:** Mohammed Geahd
+
 **Id:** 2023010080
+
 **Course:** Bioinformatics / Data Mining  
-**Date:** YYYY-MM-DD
+
+**Date:** 2026/03/06
 
 ---
 
